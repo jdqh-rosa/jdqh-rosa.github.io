@@ -61,7 +61,8 @@ h6 {
 }
 
 .section {
-    padding: 7rem 0;
+    //padding: 7rem 0;
+    padding: 10px;
 }
 
 .filters a {
@@ -1337,7 +1338,7 @@ h6 {
     width: 100%;
     min-height: 30vh;
     position: relative;
-    padding: 140px 0 60px 0;
+    padding: 140px 0 20px 0;
 }
 
 /* Hero Background */
